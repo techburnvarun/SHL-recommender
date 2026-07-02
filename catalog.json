@@ -1,0 +1,569 @@
+[
+  {
+    "name": "Verify Numerical Reasoning",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-numerical-reasoning/",
+    "description": "Assesses the ability to understand and evaluate numerical data, interpret graphs and charts, and draw correct conclusions. Suitable for roles requiring data analysis and financial decision-making.",
+    "test_type": "A",
+    "job_levels": ["professional", "manager", "senior_manager", "executive"],
+    "duration": "19 minutes",
+    "keywords": ["numerical", "reasoning", "data", "analysis", "graphs", "charts", "financial", "math"]
+  },
+  {
+    "name": "Verify Verbal Reasoning",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-verbal-reasoning/",
+    "description": "Evaluates the ability to understand written information and draw logical conclusions. Measures comprehension and critical evaluation of written passages.",
+    "test_type": "A",
+    "job_levels": ["professional", "manager", "senior_manager", "executive"],
+    "duration": "19 minutes",
+    "keywords": ["verbal", "reasoning", "comprehension", "reading", "written", "communication", "logic"]
+  },
+  {
+    "name": "Verify Inductive Reasoning",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-inductive-reasoning/",
+    "description": "Measures the ability to identify patterns, rules, and trends in abstract data. Essential for roles requiring strategic thinking and problem-solving.",
+    "test_type": "A",
+    "job_levels": ["professional", "manager", "senior_manager"],
+    "duration": "25 minutes",
+    "keywords": ["inductive", "reasoning", "patterns", "abstract", "strategic", "problem solving", "logic"]
+  },
+  {
+    "name": "Verify Deductive Reasoning",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-deductive-reasoning/",
+    "description": "Assesses the ability to draw logical conclusions from given premises. Evaluates structured analytical thinking.",
+    "test_type": "A",
+    "job_levels": ["professional", "manager", "senior_manager"],
+    "duration": "20 minutes",
+    "keywords": ["deductive", "reasoning", "logic", "analytical", "premises", "conclusions"]
+  },
+  {
+    "name": "Verify Checking",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-checking/",
+    "description": "Measures speed and accuracy in checking numerical and textual information. Ideal for administrative and data-heavy roles.",
+    "test_type": "A",
+    "job_levels": ["operational", "professional"],
+    "duration": "6 minutes",
+    "keywords": ["checking", "accuracy", "attention to detail", "data", "verification", "administrative"]
+  },
+  {
+    "name": "Verify Calculation",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-calculation/",
+    "description": "Assesses the ability to perform basic mathematical calculations quickly and accurately. Suitable for roles involving numerical operations.",
+    "test_type": "A",
+    "job_levels": ["operational", "professional"],
+    "duration": "10 minutes",
+    "keywords": ["calculation", "math", "arithmetic", "numerical", "speed", "accuracy"]
+  },
+  {
+    "name": "Verify Spatial Reasoning",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-spatial-reasoning/",
+    "description": "Evaluates the ability to visualize and manipulate 2D and 3D shapes. Used for engineering, design, and technical roles.",
+    "test_type": "A",
+    "job_levels": ["professional", "manager"],
+    "duration": "20 minutes",
+    "keywords": ["spatial", "reasoning", "visual", "3d", "2d", "shapes", "engineering", "design"]
+  },
+  {
+    "name": "Verify Mechanical Reasoning",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-mechanical-reasoning/",
+    "description": "Measures understanding of basic mechanical and physical principles. Designed for manufacturing, engineering, and maintenance roles.",
+    "test_type": "A",
+    "job_levels": ["operational", "professional"],
+    "duration": "25 minutes",
+    "keywords": ["mechanical", "reasoning", "physics", "engineering", "manufacturing", "maintenance", "machines"]
+  },
+  {
+    "name": "OPQ32r",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/opq32r/",
+    "description": "The Occupational Personality Questionnaire measures 32 personality traits relevant to workplace performance. Used for leadership development, selection, and team building.",
+    "test_type": "P",
+    "job_levels": ["professional", "manager", "senior_manager", "executive"],
+    "duration": "30 minutes",
+    "keywords": ["personality", "traits", "behavioral", "leadership", "opq", "competencies", "preferences"]
+  },
+  {
+    "name": "OPQ32n",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/opq32n/",
+    "description": "Normative version of the OPQ32 personality questionnaire. Provides a detailed profile of 32 personality characteristics for selection and development.",
+    "test_type": "P",
+    "job_levels": ["professional", "manager", "senior_manager", "executive"],
+    "duration": "30 minutes",
+    "keywords": ["personality", "normative", "traits", "opq", "behavioral", "profile", "development"]
+  },
+  {
+    "name": "Motivation Questionnaire (MQ)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/motivation-questionnaire/",
+    "description": "Assesses what motivates and drives an individual at work. Measures 18 motivation dimensions including energy, influence, and intrinsic motivation.",
+    "test_type": "B",
+    "job_levels": ["professional", "manager", "senior_manager", "executive"],
+    "duration": "20 minutes",
+    "keywords": ["motivation", "drive", "values", "engagement", "intrinsic", "energy", "influence"]
+  },
+  {
+    "name": "Situational Judgement Test (SJT)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/situational-judgement-test/",
+    "description": "Presents realistic workplace scenarios to assess judgment and decision-making. Evaluates how candidates respond to common work situations.",
+    "test_type": "B",
+    "job_levels": ["operational", "professional", "manager"],
+    "duration": "25 minutes",
+    "keywords": ["situational", "judgement", "scenarios", "decision making", "behavioral", "workplace", "sjt"]
+  },
+  {
+    "name": "Java 8 (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/java-8-new/",
+    "description": "Measures knowledge of Java 8 features including lambdas, streams, date-time API, and functional interfaces. For assessing Java developer proficiency.",
+    "test_type": "K",
+    "job_levels": ["professional", "manager"],
+    "duration": "40 minutes",
+    "keywords": ["java", "programming", "coding", "lambdas", "streams", "software development", "developer"]
+  },
+  {
+    "name": "Python",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/python/",
+    "description": "Evaluates knowledge of Python programming including data structures, OOP, libraries, and best practices. For Python developer roles.",
+    "test_type": "K",
+    "job_levels": ["professional", "manager"],
+    "duration": "40 minutes",
+    "keywords": ["python", "programming", "coding", "data structures", "oop", "software development", "developer"]
+  },
+  {
+    "name": "C# / .NET",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/c-dot-net/",
+    "description": "Assesses knowledge of C# and the .NET framework including ASP.NET, LINQ, and entity framework. For .NET developer roles.",
+    "test_type": "K",
+    "job_levels": ["professional", "manager"],
+    "duration": "40 minutes",
+    "keywords": ["c#", "dotnet", ".net", "programming", "coding", "asp", "linq", "software development"]
+  },
+  {
+    "name": "SQL",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sql/",
+    "description": "Measures proficiency in SQL queries, joins, subqueries, aggregations, and database management concepts.",
+    "test_type": "K",
+    "job_levels": ["professional", "manager"],
+    "duration": "35 minutes",
+    "keywords": ["sql", "database", "queries", "joins", "data", "analyst", "developer", "backend"]
+  },
+  {
+    "name": "JavaScript",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/javascript/",
+    "description": "Evaluates knowledge of JavaScript including ES6+, DOM manipulation, async programming, and frameworks. For frontend and full-stack roles.",
+    "test_type": "K",
+    "job_levels": ["professional", "manager"],
+    "duration": "35 minutes",
+    "keywords": ["javascript", "programming", "coding", "es6", "frontend", "web", "developer", "react"]
+  },
+  {
+    "name": "SAP",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sap/",
+    "description": "Assesses knowledge of SAP ERP modules, configuration, and business processes. For SAP consultant and functional roles.",
+    "test_type": "K",
+    "job_levels": ["professional", "manager"],
+    "duration": "45 minutes",
+    "keywords": ["sap", "erp", "enterprise", "modules", "configuration", "business processes", "consultant"]
+  },
+  {
+    "name": "Microsoft Excel",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/microsoft-excel/",
+    "description": "Measures proficiency in Excel including formulas, pivot tables, charts, data analysis, and macros. For administrative and analytical roles.",
+    "test_type": "K",
+    "job_levels": ["operational", "professional", "manager"],
+    "duration": "30 minutes",
+    "keywords": ["excel", "microsoft", "spreadsheets", "formulas", "pivot tables", "data analysis", "office"]
+  },
+  {
+    "name": "Microsoft Word",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/microsoft-word/",
+    "description": "Assesses proficiency in Microsoft Word including formatting, templates, mail merge, and document management.",
+    "test_type": "K",
+    "job_levels": ["operational", "professional"],
+    "duration": "25 minutes",
+    "keywords": ["word", "microsoft", "document", "formatting", "office", "administrative"]
+  },
+  {
+    "name": "Clerical Checking",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/clerical-checking/",
+    "description": "Measures speed and accuracy in comparing verbal and numerical information. Designed for clerical and administrative positions.",
+    "test_type": "S",
+    "job_levels": ["operational"],
+    "duration": "10 minutes",
+    "keywords": ["clerical", "checking", "accuracy", "speed", "administrative", "data entry", "comparison"]
+  },
+  {
+    "name": "Data Entry",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/data-entry/",
+    "description": "Assesses speed and accuracy in entering data into a computer system. Suitable for data entry and administrative roles.",
+    "test_type": "S",
+    "job_levels": ["operational"],
+    "duration": "10 minutes",
+    "keywords": ["data entry", "typing", "speed", "accuracy", "administrative", "clerical"]
+  },
+  {
+    "name": "Typing Speed and Accuracy",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/typing-speed-and-accuracy/",
+    "description": "Measures typing speed in words per minute and accuracy rate. For roles requiring significant keyboard-based work.",
+    "test_type": "S",
+    "job_levels": ["operational"],
+    "duration": "5 minutes",
+    "keywords": ["typing", "speed", "accuracy", "wpm", "keyboard", "clerical", "administrative"]
+  },
+  {
+    "name": "Sales Profiling",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sales-profiling/",
+    "description": "Evaluates sales-relevant behaviors and competencies including persuasion, resilience, and relationship building.",
+    "test_type": "B",
+    "job_levels": ["professional", "manager"],
+    "duration": "25 minutes",
+    "keywords": ["sales", "persuasion", "resilience", "relationship", "business development", "negotiation"]
+  },
+  {
+    "name": "Customer Service Skills",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/customer-service-skills/",
+    "description": "Assesses customer service competencies including empathy, problem resolution, communication, and service orientation.",
+    "test_type": "B",
+    "job_levels": ["operational", "professional"],
+    "duration": "25 minutes",
+    "keywords": ["customer service", "empathy", "communication", "problem resolution", "support", "service"]
+  },
+  {
+    "name": "Leadership Insight",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/leadership-insight/",
+    "description": "Evaluates leadership potential and style including strategic thinking, team management, and decision-making capabilities.",
+    "test_type": "B",
+    "job_levels": ["manager", "senior_manager", "executive"],
+    "duration": "30 minutes",
+    "keywords": ["leadership", "strategy", "team management", "decision making", "executive", "management"]
+  },
+  {
+    "name": "Teamwork and Collaboration",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/teamwork-and-collaboration/",
+    "description": "Measures collaborative behaviors including cooperation, communication, conflict resolution, and team orientation.",
+    "test_type": "B",
+    "job_levels": ["operational", "professional", "manager"],
+    "duration": "20 minutes",
+    "keywords": ["teamwork", "collaboration", "cooperation", "communication", "conflict resolution", "team"]
+  },
+  {
+    "name": "Contact Centre Simulation",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/contact-centre-simulation/",
+    "description": "Interactive simulation assessing how candidates handle inbound contact centre scenarios including calls, emails, and chats.",
+    "test_type": "SIM",
+    "job_levels": ["operational", "professional"],
+    "duration": "40 minutes",
+    "keywords": ["simulation", "contact centre", "call center", "customer service", "interactive", "scenarios"]
+  },
+  {
+    "name": "Retail Manager Simulation",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/retail-manager-simulation/",
+    "description": "Interactive simulation evaluating retail management decisions including staff scheduling, inventory, and customer experience.",
+    "test_type": "SIM",
+    "job_levels": ["manager"],
+    "duration": "45 minutes",
+    "keywords": ["simulation", "retail", "management", "inventory", "staff", "customer experience"]
+  },
+  {
+    "name": "Supervisor Simulation",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/supervisor-simulation/",
+    "description": "Assesses supervisory skills through interactive work-related scenarios including task delegation and performance management.",
+    "test_type": "SIM",
+    "job_levels": ["manager"],
+    "duration": "40 minutes",
+    "keywords": ["simulation", "supervisor", "delegation", "performance management", "leadership", "scenarios"]
+  },
+  {
+    "name": "General Ability Screen (GAS)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/general-ability-screen/",
+    "description": "A short screening test measuring general cognitive ability including verbal, numerical, and inductive reasoning.",
+    "test_type": "A",
+    "job_levels": ["operational", "professional"],
+    "duration": "15 minutes",
+    "keywords": ["general ability", "screening", "cognitive", "verbal", "numerical", "inductive", "short"]
+  },
+  {
+    "name": "Global Cognitive Index (GCI)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/global-cognitive-index/",
+    "description": "Comprehensive cognitive ability assessment covering verbal, numerical, and inductive reasoning at a global standard.",
+    "test_type": "A",
+    "job_levels": ["professional", "manager", "senior_manager"],
+    "duration": "45 minutes",
+    "keywords": ["cognitive", "ability", "verbal", "numerical", "inductive", "global", "comprehensive"]
+  },
+  {
+    "name": "Critical Thinking",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/critical-thinking/",
+    "description": "Evaluates the ability to evaluate arguments, identify assumptions, and assess the strength of evidence.",
+    "test_type": "A",
+    "job_levels": ["professional", "manager", "senior_manager", "executive"],
+    "duration": "25 minutes",
+    "keywords": ["critical thinking", "arguments", "assumptions", "evidence", "analysis", "reasoning"]
+  },
+  {
+    "name": "Verbal Comprehension",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verbal-comprehension/",
+    "description": "Measures the ability to read and understand written information quickly. Focuses on comprehension rather than evaluation.",
+    "test_type": "A",
+    "job_levels": ["operational", "professional"],
+    "duration": "15 minutes",
+    "keywords": ["verbal", "comprehension", "reading", "understanding", "written", "language"]
+  },
+  {
+    "name": "Numerical Comprehension",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/numerical-comprehension/",
+    "description": "Assesses the ability to understand numerical information presented in tables and charts without complex calculations.",
+    "test_type": "A",
+    "job_levels": ["operational", "professional"],
+    "duration": "15 minutes",
+    "keywords": ["numerical", "comprehension", "tables", "charts", "data", "understanding"]
+  },
+  {
+    "name": "Abstract Reasoning",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/abstract-reasoning/",
+    "description": "Measures the ability to identify logical patterns in abstract figures and diagrams. Non-verbal assessment of fluid intelligence.",
+    "test_type": "A",
+    "job_levels": ["professional", "manager", "senior_manager"],
+    "duration": "20 minutes",
+    "keywords": ["abstract", "reasoning", "patterns", "figures", "diagrams", "fluid intelligence", "non-verbal"]
+  },
+  {
+    "name": "Problem Solving",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/problem-solving/",
+    "description": "Evaluates the ability to analyze complex problems, identify relevant information, and generate effective solutions.",
+    "test_type": "A",
+    "job_levels": ["professional", "manager", "senior_manager"],
+    "duration": "30 minutes",
+    "keywords": ["problem solving", "analysis", "solutions", "complex", "decision making", "analytical"]
+  },
+  {
+    "name": "Interpersonal Style Questionnaire (ISQ)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/interpersonal-style-questionnaire/",
+    "description": "Measures interpersonal behaviors and preferences in a work context including influence, empathy, and social confidence.",
+    "test_type": "P",
+    "job_levels": ["professional", "manager"],
+    "duration": "20 minutes",
+    "keywords": ["interpersonal", "style", "personality", "influence", "empathy", "social", "behavioral"]
+  },
+  {
+    "name": "Work Values Questionnaire",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/work-values-questionnaire/",
+    "description": "Assesses an individual's work-related values and cultural fit including achievement, autonomy, and security.",
+    "test_type": "P",
+    "job_levels": ["professional", "manager", "senior_manager"],
+    "duration": "15 minutes",
+    "keywords": ["values", "culture", "fit", "achievement", "autonomy", "security", "work preferences"]
+  },
+  {
+    "name": "Java 11",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/java-11/",
+    "description": "Measures knowledge of Java 11 features including var keyword, HTTP client, string methods, and module system.",
+    "test_type": "K",
+    "job_levels": ["professional", "manager"],
+    "duration": "40 minutes",
+    "keywords": ["java", "programming", "coding", "java 11", "software development", "developer"]
+  },
+  {
+    "name": "React",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/react/",
+    "description": "Evaluates knowledge of React.js including components, hooks, state management, and the React ecosystem.",
+    "test_type": "K",
+    "job_levels": ["professional", "manager"],
+    "duration": "35 minutes",
+    "keywords": ["react", "javascript", "frontend", "components", "hooks", "web", "developer", "ui"]
+  },
+  {
+    "name": "AWS Cloud",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/aws-cloud/",
+    "description": "Assesses knowledge of Amazon Web Services including EC2, S3, Lambda, and cloud architecture best practices.",
+    "test_type": "K",
+    "job_levels": ["professional", "manager", "senior_manager"],
+    "duration": "40 minutes",
+    "keywords": ["aws", "cloud", "ec2", "s3", "lambda", "devops", "infrastructure", "architecture"]
+  },
+  {
+    "name": "DevOps",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/devops/",
+    "description": "Measures knowledge of DevOps practices including CI/CD, Docker, Kubernetes, infrastructure as code, and monitoring.",
+    "test_type": "K",
+    "job_levels": ["professional", "manager"],
+    "duration": "40 minutes",
+    "keywords": ["devops", "ci/cd", "docker", "kubernetes", "infrastructure", "deployment", "automation"]
+  },
+  {
+    "name": "Cyber Security",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/cyber-security/",
+    "description": "Evaluates knowledge of cybersecurity principles including threat assessment, encryption, network security, and compliance.",
+    "test_type": "K",
+    "job_levels": ["professional", "manager", "senior_manager"],
+    "duration": "40 minutes",
+    "keywords": ["cyber security", "security", "threat", "encryption", "network", "compliance", "infosec"]
+  },
+  {
+    "name": "Project Management",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/project-management/",
+    "description": "Assesses knowledge of project management methodologies, tools, and practices including agile, waterfall, and risk management.",
+    "test_type": "K",
+    "job_levels": ["professional", "manager", "senior_manager"],
+    "duration": "35 minutes",
+    "keywords": ["project management", "agile", "waterfall", "risk", "planning", "methodology", "pmp"]
+  },
+  {
+    "name": "Financial Reasoning",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/financial-reasoning/",
+    "description": "Evaluates the ability to understand financial data, reports, and ratios. Designed for finance and accounting roles.",
+    "test_type": "A",
+    "job_levels": ["professional", "manager", "senior_manager", "executive"],
+    "duration": "25 minutes",
+    "keywords": ["financial", "reasoning", "accounting", "ratios", "reports", "finance", "analysis"]
+  },
+  {
+    "name": "Innovation Potential",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/innovation-potential/",
+    "description": "Assesses innovative thinking including creativity, idea generation, openness to change, and entrepreneurial mindset.",
+    "test_type": "B",
+    "job_levels": ["professional", "manager", "senior_manager"],
+    "duration": "20 minutes",
+    "keywords": ["innovation", "creativity", "ideas", "entrepreneurial", "change", "thinking", "disruption"]
+  },
+  {
+    "name": "Resilience Assessment",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/resilience-assessment/",
+    "description": "Measures psychological resilience including stress management, adaptability, and recovery from setbacks.",
+    "test_type": "B",
+    "job_levels": ["professional", "manager", "senior_manager"],
+    "duration": "15 minutes",
+    "keywords": ["resilience", "stress", "adaptability", "recovery", "mental toughness", "wellbeing"]
+  },
+  {
+    "name": "Risk Assessment",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/risk-assessment/",
+    "description": "Evaluates risk perception, decision-making under uncertainty, and risk management competencies.",
+    "test_type": "B",
+    "job_levels": ["professional", "manager", "senior_manager", "executive"],
+    "duration": "20 minutes",
+    "keywords": ["risk", "assessment", "uncertainty", "decision making", "management", "compliance"]
+  },
+  {
+    "name": "Graduate Reasoning Test (GRT1)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/graduate-reasoning-test-grt1/",
+    "description": "Comprehensive reasoning assessment for graduates covering verbal, numerical, and abstract reasoning at graduate level.",
+    "test_type": "A",
+    "job_levels": ["operational", "professional"],
+    "duration": "35 minutes",
+    "keywords": ["graduate", "reasoning", "verbal", "numerical", "abstract", "entry level", "campus"]
+  },
+  {
+    "name": "Graduate Reasoning Test (GRT2)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/graduate-reasoning-test-grt2/",
+    "description": "Shorter form graduate reasoning test measuring verbal and numerical reasoning for high-volume graduate recruitment.",
+    "test_type": "A",
+    "job_levels": ["operational", "professional"],
+    "duration": "20 minutes",
+    "keywords": ["graduate", "reasoning", "verbal", "numerical", "short", "campus", "recruitment"]
+  },
+  {
+    "name": "IT Skills Simulation",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/it-skills-simulation/",
+    "description": "Interactive simulation assessing practical IT support skills including troubleshooting, ticket management, and user communication.",
+    "test_type": "SIM",
+    "job_levels": ["operational", "professional"],
+    "duration": "45 minutes",
+    "keywords": ["simulation", "it", "support", "troubleshooting", "technical", "interactive", "helpdesk"]
+  },
+  {
+    "name": "Administrative Assistant Simulation",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/administrative-assistant-simulation/",
+    "description": "Interactive simulation evaluating administrative tasks including scheduling, email management, and document handling.",
+    "test_type": "SIM",
+    "job_levels": ["operational"],
+    "duration": "35 minutes",
+    "keywords": ["simulation", "administrative", "assistant", "scheduling", "email", "documents", "office"]
+  },
+  {
+    "name": "Accounting and Bookkeeping",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounting-and-bookkeeping/",
+    "description": "Assesses knowledge of accounting principles, bookkeeping practices, financial statements, and regulatory requirements.",
+    "test_type": "K",
+    "job_levels": ["operational", "professional"],
+    "duration": "35 minutes",
+    "keywords": ["accounting", "bookkeeping", "financial statements", "regulatory", "finance", "ledger"]
+  },
+  {
+    "name": "Mechanical Comprehension",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/mechanical-comprehension/",
+    "description": "Measures understanding of basic mechanical principles including gears, levers, pulleys, and electrical circuits.",
+    "test_type": "A",
+    "job_levels": ["operational", "professional"],
+    "duration": "20 minutes",
+    "keywords": ["mechanical", "comprehension", "gears", "levers", "pulley", "electrical", "trades"]
+  },
+  {
+    "name": "Healthcare Situational Judgement",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/healthcare-situational-judgement/",
+    "description": "Situational judgement test tailored for healthcare settings, assessing patient care, teamwork, and ethical decision-making.",
+    "test_type": "B",
+    "job_levels": ["operational", "professional", "manager"],
+    "duration": "30 minutes",
+    "keywords": ["healthcare", "situational", "judgement", "patient", "care", "ethical", "medical"]
+  },
+  {
+    "name": "Digital Literacy",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/digital-literacy/",
+    "description": "Assesses basic digital skills including computer operation, internet usage, email, and common software applications.",
+    "test_type": "S",
+    "job_levels": ["operational"],
+    "duration": "15 minutes",
+    "keywords": ["digital", "literacy", "computer", "internet", "email", "basic", "software"]
+  },
+  {
+    "name": "Call Centre Skills",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/call-centre-skills/",
+    "description": "Evaluates call centre competencies including active listening, call handling, problem resolution, and customer orientation.",
+    "test_type": "B",
+    "job_levels": ["operational"],
+    "duration": "25 minutes",
+    "keywords": ["call centre", "call center", "active listening", "customer", "phone", "handling"]
+  },
+  {
+    "name": "Integrity Questionnaire",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/integrity-questionnaire/",
+    "description": "Assesses attitudes toward integrity, counterproductive work behavior, and ethical standards in the workplace.",
+    "test_type": "B",
+    "job_levels": ["operational", "professional"],
+    "duration": "15 minutes",
+    "keywords": ["integrity", "ethics", "counterproductive", "honesty", "standards", "workplace"]
+  },
+  {
+    "name": "Google Workspace",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/google-workspace/",
+    "description": "Measures proficiency in Google Workspace tools including Docs, Sheets, Slides, Gmail, and Drive.",
+    "test_type": "K",
+    "job_levels": ["operational", "professional"],
+    "duration": "25 minutes",
+    "keywords": ["google", "workspace", "docs", "sheets", "slides", "gmail", "drive", "office"]
+  },
+  {
+    "name": "Data Analysis",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/data-analysis/",
+    "description": "Evaluates data analysis skills including statistical concepts, data interpretation, visualization, and analytical thinking.",
+    "test_type": "K",
+    "job_levels": ["professional", "manager"],
+    "duration": "35 minutes",
+    "keywords": ["data analysis", "statistics", "visualization", "analytical", "insights", "interpretation"]
+  },
+  {
+    "name": "Machine Learning",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/machine-learning/",
+    "description": "Assesses knowledge of machine learning concepts, algorithms, model evaluation, and practical implementation.",
+    "test_type": "K",
+    "job_levels": ["professional", "manager", "senior_manager"],
+    "duration": "45 minutes",
+    "keywords": ["machine learning", "ai", "algorithms", "models", "neural networks", "data science"]
+  },
+  {
+    "name": "Agile and Scrum",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/agile-and-scrum/",
+    "description": "Measures understanding of Agile methodologies and Scrum framework including roles, ceremonies, and artifacts.",
+    "test_type": "K",
+    "job_levels": ["professional", "manager"],
+    "duration": "25 minutes",
+    "keywords": ["agile", "scrum", "kanban", "sprint", "ceremonies", "methodology", "software development"]
+  }
+]
