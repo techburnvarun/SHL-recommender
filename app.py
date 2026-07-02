@@ -406,6 +406,10 @@ def health():
         raise HTTPException(status_code=503, detail="Not ready")
     return HealthResponse(status="ok")
 
+@app.get("/")
+def root():
+    return {"message": "SHL Assessment Recommender is live. Visit /docs for API usage."}
+
 
 @app.post("/chat", response_model=ChatResponse)
 async def chat(req: ChatRequest):
